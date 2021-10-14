@@ -4,4 +4,4 @@
 -> Web scraping, web harvesting, or web data extraction is data scraping used for extracting data from websites.
 
 ## Blogs from where we learnt about web-scraping
--> [text](link)
+-> [What is Web Scraping and How to Use It](https://www.geeksforgeeks.org/what-is-web-scraping-and-how-to-use-it/)
